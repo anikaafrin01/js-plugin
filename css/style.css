@@ -1,0 +1,30 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.indianred{
+	background-color:indianred;
+	min-height: 200px;
+	margin-bottom: 10px;
+}
+.medium-orchid{
+   background-color:mediumorchid;
+   min-height: 200px;
+   margin-bottom: 10px;
+}
+.medium-purple{
+   background-color:mediumpurple;
+   min-height: 200px;
+  
+}
+
+<!--- ---->
+
+
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
